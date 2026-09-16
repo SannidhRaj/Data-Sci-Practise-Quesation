@@ -1,33 +1,61 @@
-📊 Data Science Practice
-This repository contains my Data Science practice questions and solved solutions.
-The main goal of this repository is to build a strong foundation in Data Science by solving problems regularly and applying concepts practically.
-📚 Topics Covered
-The repository will include practice questions and solutions from various Data Science topics, including:
+# 📊 Data Science Practice
 
-🐍 Python
-🔢 NumPy
-🐼 Pandas
-📊 Matplotlib 
-📈 Data Visualization
-🧹 Data Cleaning
-🔄 Data Preprocessing
-📐 Statistics
-🤖 Machine Learning
-And other important Data Science concepts
+A collection of **Data Science practice questions and their solved solutions** using Python and popular Data Science libraries.
 
-🎯 Purpose
+The main goal of this repository is to build a **strong foundation in Data Science** through regular problem-solving and practical implementation.
 
-Practice Data Science concepts through questions
-Improve problem-solving skills
-Strengthen NumPy and Pandas fundamentals
-Learn data visualization through practical problems
-Build consistency through regular practice
-Maintain a personal collection of solved Data Science problems
 
-📝 Practice Approach
-Each topic will contain questions that I solve practically using Python and relevant Data Science libraries.
-The questions will range from Basic → Intermediate → Advanced as my understanding improves.
-🚀 Goal
-The goal is to become confident in solving real-world Data Science problems and develop a strong foundation for further learning in Data Analysis, Machine Learning, and Data Science.
+## 📚 Topics Covered
 
-⭐ This repository is a record of my Data Science learning and problem-solving journey.
+This repository will cover important Data Science concepts, including:
+
+- 🐍 Python
+- 🔢 NumPy
+- 🐼 Pandas
+- 📊 Matplotlib
+- 📈 Data Visualization
+- 🧹 Data Cleaning
+- 🔄 Data Preprocessing
+- 📐 Statistics
+- 🤖 Machine Learning
+- 📊 Exploratory Data Analysis (EDA)
+- And other important Data Science concepts
+
+
+## 🎯 Purpose
+
+The purpose of this repository is to:
+
+- Practice Data Science concepts through questions
+- Improve problem-solving skills
+- Strengthen NumPy and Pandas fundamentals
+- Practice data visualization
+- Understand data cleaning and preprocessing
+- Build consistency through regular practice
+- Maintain a collection of solved Data Science problems
+
+
+## 📝 Practice Approach
+
+Each topic contains **practice questions along with their solutions**.
+
+The questions will gradually progress from:
+
+**Basic → Intermediate → Advanced**
+
+Solutions are implemented using **Python and relevant Data Science libraries**.
+
+
+## 🚀 Goal
+
+The goal is to become confident in solving **Data Science problems** and build a strong foundation for:
+
+- Data Analysis
+- Data Science
+- Machine Learning
+- Real-world Data Problems
+
+
+## ⭐ Learning Journey
+
+This repository represents my **Data Science learning and problem-solving journey**, where I regularly practice questions and improve my understanding through hands-on coding.
