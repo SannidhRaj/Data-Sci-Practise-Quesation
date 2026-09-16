@@ -7,7 +7,7 @@ The repository will include practice questions and solutions from various Data S
 🐍 Python
 🔢 NumPy
 🐼 Pandas
-📊 Matplotlib
+📊 Matplotlib 
 📈 Data Visualization
 🧹 Data Cleaning
 🔄 Data Preprocessing
